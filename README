@@ -1,4 +1,4 @@
-★ Subdomain Lister
+# Subdomain Lister
 Author: AMYRAHM 
 
 ★ Description:
@@ -10,6 +10,5 @@ Simple shell script  For Searching Subdomain And save results
 ★ USAGE:
 subdomain_lister -d domain_name" >output (-d default wordlist as subdomains.txt)
 subdomain_lister -f domain_name path/to/customwordlist >output
-![githubpic](https://user-images.githubusercontent.com/64308272/81266754-f16f0100-9062-11ea-857a-35b5337445f3.PNG)
 
 
