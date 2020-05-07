@@ -1,0 +1,13 @@
+★ Subdomain Lister
+Author: AMYRAHM 
+
+★ Description:
+Simple shell script  For Searching Subdomain And save results
+
+★ Download:
+● git clone "repo link"
+
+★ USAGE:
+subdomain_lister -d domain_name" >output (-d default wordlist as subdomains.txt)
+subdomain_lister -f domain_name path/to/customwordlist >output
+
